@@ -1,0 +1,26 @@
+id,rating,years_experience,project
+1,4.5,5,Cloud Migration
+2,3.8,3,Hiring Portal
+3,4.2,6,Budget Planner
+4,4.7,8,Cloud Migration
+6,3.9,4,Data Platform
+7,4.0,7,Hiring Portal
+8,4.6,9,Audit Automation
+9,3.5,2,CRM Revamp
+10,4.9,10,Data Platform
+11,4.1,4,Brand Campaign
+12,3.7,5,Budget Planner
+14,4.3,6,Cloud Migration
+15,3.6,2,CRM Revamp
+16,4.4,5,Brand Campaign
+17,4.0,7,Audit Automation
+18,4.8,9,Data Platform
+19,3.9,3,Hiring Portal
+21,4.5,6,Cloud Migration
+22,4.1,8,Budget Planner
+23,3.8,3,Brand Campaign
+24,4.2,4,Hiring Portal
+25,4.6,7,Data Platform
+26,4.0,2,Cloud Migration
+27,3.7,1,CRM Revamp
+28,4.3,3,Data Platform
