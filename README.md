@@ -58,7 +58,6 @@ The pipeline is executed on an **AWS EC2 instance running Ubuntu Linux**. It rea
 - **Python**
 - **PySpark**
 - **Apache Spark**
-- **Hadoop**
 - **Parquet**
 - **CSV**
 
